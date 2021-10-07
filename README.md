@@ -1,10 +1,13 @@
 # gamescores
 
-A new Flutter project.
-
+## A new Flutter project.
+> Flutter application that allows you to get soccer results right in time.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# How to install
+> Clone the project
+> Open the project on your favourite IDE
+> Run the project on your emulator
 
 A few resources to get you started if this is your first Flutter project:
 
